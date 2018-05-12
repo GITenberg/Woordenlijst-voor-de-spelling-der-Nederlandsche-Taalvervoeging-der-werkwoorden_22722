@@ -29,6 +29,8 @@ creator:
     gutenberg_agent_id: '25503'
     url: http://www.gutenberg.org/2009/agents/25503
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22722#Woordenlijst-voor-de-spelling-der-Nederlandsche-Taalvervoeging-der-werkwoorden
 gutenberg_issued: '2007-09-22'
 gutenberg_type: Text
 identifiers:
