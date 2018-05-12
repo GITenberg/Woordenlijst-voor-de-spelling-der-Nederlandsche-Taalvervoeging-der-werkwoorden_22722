@@ -1,0 +1,45 @@
+_repo: Woordenlijst-voor-de-spelling-der-Nederlandsche-Taalvervoeging-der-werkwoorden_22722
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Vries, M. de (Matthias)
+    alias: Vries, Matthias de
+    birthdate: 1820
+    deathdate: 1892
+    gutenberg_agent_id: '25504'
+    url: http://www.gutenberg.org/2009/agents/25504
+    wikipedia: http://nl.wikipedia.org/wiki/Matthias_de_Vries
+  - agent_name: Winkel, L. A. te
+    aliases:
+    - Winkel, Lambert Allard te
+    - Winkel, Lamert Allard te
+    - Winkel, Lammert te
+    birthdate: 1809
+    deathdate: 1868
+    gutenberg_agent_id: '32636'
+    url: http://www.gutenberg.org/2009/agents/32636
+    wikipedia: http://nl.wikipedia.org/wiki/L.A._te_Winkel
+  editor:
+    agent_name: Beets, Adriaan
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '25503'
+    url: http://www.gutenberg.org/2009/agents/25503
+description: ''
+gutenberg_issued: '2007-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22722'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch language -- Orthography and spelling'
+- !lcc 'PF'
+title: "Woordenlijst voor de spelling der Nederlandsche Taal\r\nMet aanwijzing van\
+  \ de geslachten der naamwoorden en de vervoeging der werkwoorden"
+url: http://www.gutenberg.org/ebooks/22722
